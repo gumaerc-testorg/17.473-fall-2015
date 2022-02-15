@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'NSAM 335: Preparation of Arms Control ProgramAssignments'
 uid: d81f15fc-328b-4547-3845-4f187fc8a32a
 ---
