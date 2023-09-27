@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section features the course description, course requirements, grading
+  policy, and the course calendar.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -89,7 +91,7 @@ Class Participation
 
 {{< tableclose >}}
 
-For more detailed information, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For more detailed information, see the {{% resource_link d81f15fc-328b-4547-3845-4f187fc8a32a "Assignments" %}} section.
 
 Plagiarism
 ----------
@@ -105,7 +107,7 @@ Gavin, Francis J. _Nuclear Statecraft: History and Strategy in America's Atomic 
 
 Trachtenberg, Marc. _History & Strategy_. Princeton University Press, 1991. ISBN: 9780691023434. \[Preview with [Google Books](http://books.google.com/books?id=0glIMk1wLf0C&pg=PAfrontcover)\]
 
-Additional readings can be found in the [Readings]({{< baseurl >}}/pages/readings) section.
+Additional readings can be found in the {{% resource_link 0aeeb97d-5f39-d2df-4c49-a95b925c5e43 "Readings" %}} section.
 
 Calendar
 --------
