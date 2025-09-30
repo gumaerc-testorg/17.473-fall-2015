@@ -96,16 +96,16 @@ For more detailed information, see the {{% resource_link d81f15fc-328b-4547-3845
 Plagiarism
 ----------
 
-Plagiarism will not be tolerated and will be referred to the appropriate authorities for disciplinary action if suspected. Plagiarism is defined as "a piece of writing that has been copied from another source and is presented as being your own work." This includes ideas as well as specific paragraphs, sentences, etc. Ignorance and laziness is not an excuse for plagiarism, so be careful about citations and footnotes in any written work. The following resources may be of further assistance: [Avoiding Plagiarism](http://cmsw.mit.edu/writing-and-communication-center/avoiding-plagiarism/) from MIT's [Writing and Communication Center](http://cmsw.mit.edu/writing-and-communication-center/) and MIT's rules regarding [Academic Misconduct and Dishonesty](http://web.mit.edu/policies/10/index.html).
+Plagiarism will not be tolerated and will be referred to the appropriate authorities for disciplinary action if suspected. Plagiarism is defined as "a piece of writing that has been copied from another source and is presented as being your own work." This includes ideas as well as specific paragraphs, sentences, etc. Ignorance and laziness is not an excuse for plagiarism, so be careful about citations and footnotes in any written work. The following resources may be of further assistance: {{% resource_link "738e6f0d-e7c3-4e0d-beb6-d88a1fb5693a" "Avoiding Plagiarism" %}} from MIT's {{% resource_link "b56bb720-3454-4f63-8719-3e5b0d158e26" "Writing and Communication Center" %}} and MIT's rules regarding {{% resource_link "1eb295f8-e88a-4fb7-ab17-8a02210aadc8" "Academic Misconduct and Dishonesty" %}}.
 
 Recommended Readings
 --------------------
 
-Cirincione, Joseph. _Bomb Scare: The History & Future of Nuclear Weapons_. Columbia University Press, 2008. ISBN: 9780231135115. \[Preview with [Google Books](http://books.google.com/books?id=lYTGAgAAQBAJ&pg=PAfrontcover)\]
+Cirincione, Joseph. _Bomb Scare: The History & Future of Nuclear Weapons_. Columbia University Press, 2008. ISBN: 9780231135115. \[Preview with {{% resource_link "f9bd6eb8-7fc4-408c-a304-2d142887f211" "Google Books" %}}\]
 
 Gavin, Francis J. _Nuclear Statecraft: History and Strategy in America's Atomic Age_. Cornell University Press, 2015. ISBN: 9780801456756.
 
-Trachtenberg, Marc. _History & Strategy_. Princeton University Press, 1991. ISBN: 9780691023434. \[Preview with [Google Books](http://books.google.com/books?id=0glIMk1wLf0C&pg=PAfrontcover)\]
+Trachtenberg, Marc. _History & Strategy_. Princeton University Press, 1991. ISBN: 9780691023434. \[Preview with {{% resource_link "5e48da28-96d3-4c00-aedc-1d24f7d029e7" "Google Books" %}}\]
 
 Additional readings can be found in the {{% resource_link 0aeeb97d-5f39-d2df-4c49-a95b925c5e43 "Readings" %}} section.
 
@@ -173,7 +173,7 @@ The Second World War, the Manhattan Project, and the Decision to Drop the Bomb
 
 Second Generation Nuclear Powers
 
-_Guest Lecturer: [Professor Vipin Narang](http://web.mit.edu/polisci/people/faculty/vipin-narang.html), Associate Professor of Political Science, MIT_
+_Guest Lecturer: {{% resource_link "ca6138c7-19c1-46de-8339-7c9245d09171" "Professor Vipin Narang" %}}, Associate Professor of Political Science, MIT_
 
 
 {{< tdclose >}}
@@ -345,7 +345,7 @@ How to Study / Think about Nuclear Dynamics
 {{< tdopen >}}
 
 
-### Screening: [Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb](http://www.imdb.com/title/tt0057012/?ref_=fn_al_tt_1). Directed by Stanley Kubrick. Black and White, 95 min. 1964.
+### Screening: {{% resource_link "dc65ea38-c866-48b4-9450-34c2e8c0bcfc" "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb" %}}. Directed by Stanley Kubrick. Black and White, 95 min. 1964.
 
 
 {{< tdclose >}}
@@ -417,7 +417,7 @@ Take Home Final Paper assignment handed out
 
 Centrifuges – Technology and History
 
-_Guest lecturer: [R. Scott Kemp](http://lnsp.mit.edu/r-scott-kemp/), Assistant Professor of Nuclear Science and Engineering, MIT_
+_Guest lecturer: {{% resource_link "38e6c6c3-1998-4fc0-954e-8d59ee93487e" "R. Scott Kemp" %}}, Assistant Professor of Nuclear Science and Engineering, MIT_
 
 
 {{< tdclose >}}
